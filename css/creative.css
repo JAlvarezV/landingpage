@@ -36,9 +36,6 @@ p {
   background-color: black;
   color: white; }
 
-.text-faded {
-  color: rgba(255, 255, 255, 0.7); }
-
 section {
   padding: 100px 0; }
 
@@ -333,48 +330,16 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.disabled, .btn-primary[disabled] {
   background-color: #F05F40;
   border-color: #F05F40; }
-
-fieldset[disabled] .btn-primary {
-  background-color: #F05F40;
-  border-color: #F05F40; }
-
 .btn-primary.disabled:hover, .btn-primary[disabled]:hover {
   background-color: #F05F40;
   border-color: #F05F40; }
-
-fieldset[disabled] .btn-primary:hover {
-  background-color: #F05F40;
-  border-color: #F05F40; }
-
 .btn-primary.disabled:focus, .btn-primary[disabled]:focus {
   background-color: #F05F40;
   border-color: #F05F40; }
-
-fieldset[disabled] .btn-primary:focus {
-  background-color: #F05F40;
-  border-color: #F05F40; }
-
-.btn-primary.disabled.focus, .btn-primary[disabled].focus {
-  background-color: #F05F40;
-  border-color: #F05F40; }
-
-fieldset[disabled] .btn-primary.focus {
-  background-color: #F05F40;
-  border-color: #F05F40; }
-
 .btn-primary.disabled:active, .btn-primary[disabled]:active {
   background-color: #F05F40;
   border-color: #F05F40; }
-
-fieldset[disabled] .btn-primary:active {
-  background-color: #F05F40;
-  border-color: #F05F40; }
-
 .btn-primary.disabled.active, .btn-primary[disabled].active {
-  background-color: #F05F40;
-  border-color: #F05F40; }
-
-fieldset[disabled] .btn-primary.active {
   background-color: #F05F40;
   border-color: #F05F40; }
 
@@ -392,16 +357,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl {
   padding: 15px 30px; }
 
-::-moz-selection, ::selection {
-  color: white;
-  text-shadow: none;
-  background: #222222; }
-
 img::selection, img::-moz-selection {
   color: white;
   background: transparent; }
-
-body {
-  webkit-tap-highlight-color: #222222; }
 
 /*# sourceMappingURL=creative.css.map */
